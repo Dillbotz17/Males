@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['62882717220751'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/sahrull11'
-global.dana = '085822347348'
-global.pulsa = '085822347348,083843192208'
+global.nameowner = 'Dill...!?'
+global.numberowner = '62882717220751'
+global.instagram = 'https://instagram.com/dill.hfz'
+global.github = 'https://github.com/Dillbotz17'
+global.dana = '-'
+global.pulsa = '088271722075,083843192208'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'RD Botz'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,7 +25,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© AɾυʅʅBσƚȥMD'
 global.watermark = wm
-global.wm2 = '「 ArullBotzMD 」'
+global.wm2 = '「 DillbotzMD 」'
 global.wm3 = '© AɾυʅʅBσƚȥMD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Sticker By'
-global.author = '© ArullOfc'
+global.author = '© dill'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
